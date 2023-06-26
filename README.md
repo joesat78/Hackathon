@@ -1,1 +1,1 @@
-This is my # Hackathon project. Please run the Hackathon.html to see the project
+This is my # Hackathon project. Please run the Hackathon.html to see the project. The Website contains information about other cultures and also a racial slur bot that filters racial comments to type a user friendly message.
