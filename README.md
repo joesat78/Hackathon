@@ -1,1 +1,1 @@
-This is my # Hackathon project. Please run the Hackathon.HTML to see the project
+This is my # Hackathon project. Please run the Hackathon.html to see the project
