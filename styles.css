@@ -1,0 +1,73 @@
+* {
+  font-family: 'Courier New', monospace;
+}
+
+
+{ 
+box-sizing: border-box;
+}
+
+body {
+margin: 0;
+}
+
+/* Style the side navigation */
+.sidenav {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #5f3c12;
+overflow-x: hidden;
+}
+
+
+/* Side navigation links */
+.sidenav a {
+color: #facf4f;
+padding: 16px;
+text-decoration: none;
+display: block;
+font-weight: bold;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+background-color: #facf4f;
+color: rgb(0, 0, 0);
+}
+
+/* Style the content */
+.content {
+margin-left: 200px;
+padding-left: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  color: #facf4f;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+  width: 1100px;
+  color: #5f3c12;
+  font-weight: 900;
+}
+
+h2 {
+  color: #facf4f;
+}
+
+h3 {
+  color:#b1844d ;
+}
+
+/*
+change h1 to 45px
+change p to 20px
+wdith 1100px
+*/
